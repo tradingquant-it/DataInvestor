@@ -2,6 +2,8 @@
 
 DataInvestor è un framework di backtesting modulare basato su pianificazione e open source gratuito basato su Python per long-short su azioni e strategie di trading sistematiche basate su ETF.
 
+### Descritto ed utilizzato su TradingQuant.it (www.tradingquant.it)
+
 DataInvestor può essere meglio descritto come una raccolta di moduli liberamente accoppiati per l'esecuzione di backtest end-to-end con meccaniche di trading realistiche.
 
 I moduli predefiniti forniscono funzionalità utili per alcuni tipi di strategie di trading sistematiche e possono essere utilizzati senza modifiche. Tuttavia, l'intento di DataInvestor è che gli utenti estendano, ereditino o sostituiscano completamente ciascun modulo al fine di fornire funzionalità personalizzate per il proprio caso d'uso.
