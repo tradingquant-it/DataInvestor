@@ -15,7 +15,7 @@ E' stato progettato per sopportare versioni di python maggiori alla 3.6
 
 L'installazione richiede un ambiente Python3. L'approccio più semplice è scaricare una distribuzione scientifica autonoma di Python come [Anaconda Individual Edition](https://www.anaconda.com/products/individual#Downloads). È quindi possibile installare DataInvestor in un [ambiente virtuale](https://docs.python.org/3/tutorial/venv.html#virtual-environments-and-packages) isolato tramite pip come mostrato di seguito.
 
-Eventuali problemi con l'installazione devono essere segnalati al team di sviluppo come problemi [qui](https://github.com/datatrading-info/DataInvestor/issues).
+Eventuali problemi con l'installazione devono essere segnalati al team di sviluppo come problemi [qui](https://github.com/tradingquant.it/DataInvestor/issues).
 
 
 ## conda
@@ -52,7 +52,7 @@ pip3 install datainvestor
 
 # Documentazione completa
 
-La documentazione completa e i tutorial per i neofiti di DataInvestor sono disponibili su DataTrading.info all'indirizzo [https://www.tradingquant.it/datainvestor/](https://www.tradingquant.it/datainvestor/).
+La documentazione completa e i tutorial per i neofiti di DataInvestor sono disponibili su Tradingquant.it all'indirizzo [https://www.tradingquant.it/datainvestor/](https://www.tradingquant.it/datainvestor/).
 
 # Quickstart
 
