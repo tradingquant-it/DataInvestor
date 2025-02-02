@@ -52,15 +52,15 @@ pip3 install datainvestor
 
 # Documentazione completa
 
-La documentazione completa e i tutorial per i neofiti di DataInvestor sono disponibili su DataTrading.info all'indirizzo [https://www.datatrading.info/datainvestor/](https://www.datatrading.info/datainvestor/).
+La documentazione completa e i tutorial per i neofiti di DataInvestor sono disponibili su DataTrading.info all'indirizzo [https://www.tradingquant.it/datainvestor/](https://www.tradingquant.it/datainvestor/).
 
 # Quickstart
 
-Il repository DataInvestor fornisce alcune semplici strategie di esempio su [/examples](https://github.com/datatrading-info/DataInvestor/tree/master/examples).
+Il repository DataInvestor fornisce alcune semplici strategie di esempio su [/examples](https://github.com/tradingquant.it/DataInvestor/tree/master/examples).
 
 All'interno di questa sezione di avvio rapido, un classico portafoglio di azioni/obbligazioni classico è sottoposto a backtest con ribilanciamento mensile ogni l'ultimo giorno del mese.
 
-Per iniziare, scarica il file [sixty_forty.py](https://github.com/datatrading-info/DataInvestor/blob/master/examples/sixty_forty.py) e inseriscilo nella directory di tua scelta.
+Per iniziare, scarica il file [sixty_forty.py](https://github.com/tradingquant.it/DataInvestor/blob/master/examples/sixty_forty.py) e inseriscilo nella directory di tua scelta.
 
 Lo script 60/40 utilizza i dati delle "barra giornaliera" OHLC di Yahoo Finance. In particolare richiede [SPY](https://finance.yahoo.com/quote/SPY/history?p=SPY) e [AGG](https://finance.yahoo.com/quote/AGG/history? p=AGG) dati ETF. Scarica la cronologia completa per ciascuno e salva come file CSV nella stessa directory di ``sixty_forty.py``.
 
@@ -74,7 +74,7 @@ Vedrai quindi alcuni output della console mentre il motore di simulazione del ba
 
 Puoi esaminare il file ``sixty_forty.py`` commentato per vedere l'attuale API di backtesting di DataInvestor.
 
-In caso di domande sull'installazione o sull'utilizzo di esempio, non esitare a inviare un'e-mail a [support@datatrading.info](mailto:support@datatrading.info)
+In caso di domande sull'installazione o sull'utilizzo di esempio, non esitare a inviare un'e-mail a [support@tradingquant.it](mailto:support@tradingquant.it)
 
 # Funzionalità attuali
 
@@ -88,7 +88,7 @@ In caso di domande sull'installazione o sull'utilizzo di esempio, non esitare a 
 
 # Termini di Licenza
 
-Copyright (c) 2018-2024 DataTrading.info
+Copyright (c) 2018-2025 DataTrading.info
 
 
 Con la presente viene concessa l'autorizzazione, a titolo gratuito, a chiunque ottenga una copia di questo software e dei file di documentazione associati (il "Software"), di trattare il Software senza restrizioni, inclusi, senza limitazione, i diritti di utilizzo, copia, modifica, unione , pubblicare, distribuire, concedere in licenza e / o vendere copie del Software e consentire alle persone a cui il Software è fornito di farlo, alle seguenti condizioni:
