@@ -17,7 +17,7 @@ dependencies = [
     "yfinance",
 ]
 authors = [
-    {name="Gianluca", email="support@datatrading.info"}
+    {name="Gianluca", email="support@tradingquant.it"}
 ]
 
 description = "DataInvestor - Motore di simulazione di portafogli di investimento"
@@ -36,10 +36,10 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/datatrading-info/DataInvestor"
-Issues = "https://github.com/datatrading-info/DataInvestor/issues"
-Documentation = "https://www.datatrading.info/datainvestor"
-Website = "https://www.datatrading.info"
+Homepage = "https://github.com/tradingquant-it/DataInvestor"
+Issues = "https://github.com/tradingquant-it/DataInvestor/issues"
+Documentation = "https://www.tradingquant.it/datainvestor"
+Website = "https://www.tradingquant.it"
 
 
 [tool.hatch.build.targets.wheel]

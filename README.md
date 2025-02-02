@@ -15,7 +15,7 @@ E' stato progettato per sopportare versioni di python maggiori alla 3.6
 
 L'installazione richiede un ambiente Python3. L'approccio più semplice è scaricare una distribuzione scientifica autonoma di Python come [Anaconda Individual Edition](https://www.anaconda.com/products/individual#Downloads). È quindi possibile installare DataInvestor in un [ambiente virtuale](https://docs.python.org/3/tutorial/venv.html#virtual-environments-and-packages) isolato tramite pip come mostrato di seguito.
 
-Eventuali problemi con l'installazione devono essere segnalati al team di sviluppo come problemi [qui](https://github.com/tradingquant.it/DataInvestor/issues).
+Eventuali problemi con l'installazione devono essere segnalati al team di sviluppo come problemi [qui](https://github.com/tradingquant-it/DataInvestor/issues).
 
 
 ## conda
@@ -56,11 +56,11 @@ La documentazione completa e i tutorial per i neofiti di DataInvestor sono dispo
 
 # Quickstart
 
-Il repository DataInvestor fornisce alcune semplici strategie di esempio su [/examples](https://github.com/tradingquant.it/DataInvestor/tree/master/examples).
+Il repository DataInvestor fornisce alcune semplici strategie di esempio su [/examples](https://github.com/tradingquant-it/DataInvestor/tree/master/examples).
 
 All'interno di questa sezione di avvio rapido, un classico portafoglio di azioni/obbligazioni classico è sottoposto a backtest con ribilanciamento mensile ogni l'ultimo giorno del mese.
 
-Per iniziare, scarica il file [sixty_forty.py](https://github.com/tradingquant.it/DataInvestor/blob/master/examples/sixty_forty.py) e inseriscilo nella directory di tua scelta.
+Per iniziare, scarica il file [sixty_forty.py](https://github.com/tradingquant-it/DataInvestor/blob/master/examples/sixty_forty.py) e inseriscilo nella directory di tua scelta.
 
 Lo script 60/40 utilizza i dati delle "barra giornaliera" OHLC di Yahoo Finance. In particolare richiede [SPY](https://finance.yahoo.com/quote/SPY/history?p=SPY) e [AGG](https://finance.yahoo.com/quote/AGG/history? p=AGG) dati ETF. Scarica la cronologia completa per ciascuno e salva come file CSV nella stessa directory di ``sixty_forty.py``.
 
@@ -88,7 +88,7 @@ In caso di domande sull'installazione o sull'utilizzo di esempio, non esitare a 
 
 # Termini di Licenza
 
-Copyright (c) 2018-2025 DataTrading.info
+Copyright (c) 2018-2025 Tradingquant.it
 
 
 Con la presente viene concessa l'autorizzazione, a titolo gratuito, a chiunque ottenga una copia di questo software e dei file di documentazione associati (il "Software"), di trattare il Software senza restrizioni, inclusi, senza limitazione, i diritti di utilizzo, copia, modifica, unione , pubblicare, distribuire, concedere in licenza e / o vendere copie del Software e consentire alle persone a cui il Software è fornito di farlo, alle seguenti condizioni:
